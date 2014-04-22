@@ -1,12 +1,12 @@
 {
   "name": "toranb-ajax-mixin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "homepage": "https://github.com/toranb/toranb-ajax-mixin",
   "authors": [
     "Toran Billups <toranb@gmail.com>"
   ],
   "description": "a simple ajax mixin for my bower es6 demo",
-  "main": "build/es6/main.js",
+  "main": "main.js",
   "dependencies": {},
   "keywords": [
     "ember"
