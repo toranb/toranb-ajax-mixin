@@ -7,7 +7,7 @@
   ],
   "description": "a simple ajax mixin for my bower es6 demo",
   "main": "build/es6/main.js",
-  "dependencies": {}
+  "dependencies": {},
   "keywords": [
     "ember"
   ],
